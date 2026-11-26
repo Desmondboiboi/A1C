@@ -2,4 +2,4 @@ import streamlit as st
 
 st.title("Expert System- Main")
 if st.button("Greet"):
-  st.info("Hello, expert")
+  st.info("Hello, 67")
