@@ -1,4 +1,4 @@
-import streamkit as st
+import streamlit as st
 
 st.title("Expert System- Main")
 if st.button("Greet"):
